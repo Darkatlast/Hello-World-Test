@@ -7,7 +7,7 @@ It's meant as a beginner-friendly starting point for learning GitHub, Python, an
 
 ## Installation
 
-Make sure you have Python 3 installed.  
+Make sure you have Python 3, Gcc and G++ installed.  
 Clone this repository and move into the folder:
 
 ```bash
@@ -26,10 +26,12 @@ python hello.py
 ```
 Run the C++ program with:
 ```bash
+g++ hello.cpp -o hello_cpp
 ./hello.cpp
 ```
 Run the C program with:
 ```bash
+gcc hello.c -o hello_c
 ./hello.c
 ```
 
