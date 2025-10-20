@@ -19,10 +19,18 @@ cd hello_world_project
 
 ## Usage
 
-Run the program with:
+Run the Python program with:
 
 ```bash
 python hello.py
+```
+Run the C++ program with:
+```bash
+./hello.cpp
+```
+Run the C program with:
+```bash
+./hello.c
 ```
 
 ---
